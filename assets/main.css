@@ -10,7 +10,7 @@
  *   #52739e; Navy, "Template" in the logo, current page in navigation, special titles in the Program
  *   #b2132e; Reddish, "Conference" in the logo, hover color for links
  *   #813c54; Heading color, titles in the Program
- *   #b8860b; Dark Goldenrod, color for links
+ *   #0b62b8; Dark Goldenrod, color for links
  */
 
 @import url('https://fonts.googleapis.com/css?family=Roboto%7CRoboto+Slab');
@@ -49,7 +49,7 @@ h2{font-size:2.00em;}
 h3{font-size:1.67em;}
 h4{font-size:1.33em;}
 p{list-style:none; margin:24px auto 24px auto; padding:0px; width:900px; text-align:justify;}
-li a, p a {text-decoration:underline; text-decoration-color:#0b62b8;}
+li a, p a {text-decoration:none; text-decoration-color:#0b62b8;}
 ul{list-style:none; margin:24px auto 24px auto; padding:0px; width:800px; text-align:justify;}
 ul li{list-style:none; margin:0px auto 0px auto; padding:0px; text-align:justify;}
 i,em{font-style:italic;}
