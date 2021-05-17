@@ -72,7 +72,7 @@ table{
     /*border: 1px solid black;*/
 }
 th,td{
-    text-align: left;
+    text-align: justify;
     /* UNCOMMENT THIS FOR DEBUGGING THE ALIGNMENT */
     /*border: 1px solid black;*/
 }
